@@ -60,7 +60,7 @@
 
 ![d3](https://user-images.githubusercontent.com/63901518/83423222-a380c980-a465-11ea-98c2-5226c81ac08d.PNG)
 
-**5. Images and corresponding probability that predicted Wrong
+**5. Images and corresponding probability that predicted Wrong**
 
 ![e3](https://user-images.githubusercontent.com/63901518/83423241-a8de1400-a465-11ea-924a-f09b7aa30a12.PNG)
 
