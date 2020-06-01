@@ -1,4 +1,4 @@
-# Algorithm_03
+# Algorithm Assignment4
 
 ## model 1
 **1. Model**
